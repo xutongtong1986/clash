@@ -1,2 +1,1 @@
-# clash
-tong
+Removed
